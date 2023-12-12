@@ -1,0 +1,36 @@
+<book>
+<bookname>The Summer I Turned Out Pretty </bookname>
+<bookauthor>Jenny Han</bookauthor>
+<bookprice>$500</bookprice>
+<ISBN>23456</ISBN>
+<pages>500</pages>
+</book>
+<book>
+<bookname>The Fault in Our Stars</bookname>
+<bookauthor>John Green</bookauthor>
+<bookprice>$300</bookprice>
+<ISBN>76156</ISBN>
+<pages>180</pages>
+</book>
+<book>
+<bookname>The Outsiders</bookname>
+<bookauthor>Hinton</bookauthor>
+<bookprice>$200</bookprice>
+<ISBN>98456</ISBN>
+<pages>300</pages>
+</book>
+<book>
+<bookname>Speak</bookname>
+<bookauthor>Laurie Halse Anderson</bookauthor>
+<bookprice>$500</bookprice>
+<ISBN>12456</ISBN>
+<pages>200</pages>
+</book>
+<book>
+<bookname>The Hate U Give</bookname>
+<bookauthor>Angie Thomas</bookauthor>
+<bookprice>$400</bookprice>
+<ISBN>73456</ISBN>
+<pages>300</pages>
+</book>
+</bookstore>
